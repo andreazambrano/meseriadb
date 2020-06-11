@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "3.234.73.161",
+    "port": 25018,
+    "url": "",
+    "database": "meseriadb",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
